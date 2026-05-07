@@ -3,7 +3,11 @@ RENCANA KONTEN WPU
 - Javascript
 * ES6
 * Framework Javascript
+> VUE
+> React
 - Struktur data dasar
 - PHP Frameworks
+> LARAVEL
 - Interview
 - Vlogs
+- Phiton
